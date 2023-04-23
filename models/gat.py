@@ -1,3 +1,5 @@
+# Group project for CSE 6240: Web Search and Text Mining at Georgia Tech
+# Author: Kien Tran (github.com/trantrikien239)
 import torch
 from torch import Tensor
 from torch_geometric.data import HeteroData
