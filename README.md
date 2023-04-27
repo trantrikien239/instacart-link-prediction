@@ -3,7 +3,7 @@
 # Instructions
 
 ## Get data
-See *external_download_link_to_data.txt* for a link to a Google Drive foler that contains all of our original and preprocessed data.
+See *datasets/external_download_link_to_data.txt* for a link to a Google Drive folder that contains all of our original and preprocessed data.
 
 ## Run Matrix Factorization
 Open *models/factorization.ipynb* and run entire notebook to train and test model.
